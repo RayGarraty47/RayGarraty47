@@ -18,6 +18,7 @@
 - [ ] Update shopping cart functionality with qauntity selection
 - [ ] Populate with mock products
 - [ ] Dark Mode
+- [ ] shopping cart page button should take you back to previous page when clicked or atleast change to something else
 - [ ] Update billboard images and theming 
 
 ### Ecommerce Admin
