@@ -1,5 +1,7 @@
 ## Suffer Co Current Objectives
 
+Launch before 2025
+
 ### Blog 
 
 - [ ] Lets make blogs articles generated using [MDX mardown](https://www.youtube.com/watch?v=YC6LqIYVHxI)
@@ -10,6 +12,7 @@
 - [ ] Contact form page
 - [ ] legal page (boring) 
 - [ ] terms of service page (boring)
+- [ ] How do affiliate links work
 
 ### Ecommerce Store Front
 
