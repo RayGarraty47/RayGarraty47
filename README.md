@@ -1,4 +1,4 @@
-## Suffer Co Objectives
+## Suffer Co Current Objectives
 
 ### Blog 
 
