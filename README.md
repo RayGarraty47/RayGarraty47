@@ -1,5 +1,16 @@
 ## Suffer Co Objectives
 
+### Blog 
+
+- [ ] Lets make blogs articles generated using [MDX mardown](https://www.youtube.com/watch?v=YC6LqIYVHxI)
+- [ ] Write an example article
+- [ ] Make sufferhub landing page, it should outlink to articles and ecommerce store
+- [ ] Make Next.js UI app for community contributions
+- [ ] Create about SufferCo page
+- [ ] Contact form page
+- [ ] legal page (boring) 
+- [ ] terms of service page (boring)
+
 ### Ecommerce Store Front
 
 - [ ] Set up vercel to have seperate dev and prod environments
